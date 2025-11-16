@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-core
+langchain-openai
+langgraph
+openai
+python-dotenv
+sqlalchemy
+psycopg2-binary
+langchain-community
+langchain-elasticsearch
+elasticsearch

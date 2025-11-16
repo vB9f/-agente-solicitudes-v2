@@ -35,4 +35,4 @@ streamlit run app.py
 ```
 ## 🧠 Arquitectura del agente
 
-
+![Arquitectura del sistema](images/arq-multiagente.png)
